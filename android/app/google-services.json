@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896285313253",
+    "project_id": "adoptv2-a7a23",
+    "storage_bucket": "adoptv2-a7a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896285313253:android:70d9d8de01da6ffb772c0c",
+        "android_client_info": {
+          "package_name": "com.example.adopt_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896285313253-56md596cea0ngm359mu5nt55cda16g2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDug0Eduh2oM4VeThNqUrVoV-_w4pfU4z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896285313253-56md596cea0ngm359mu5nt55cda16g2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
